@@ -6,3 +6,8 @@ Este proyecto tiene como objetivo analizar una base de datos de expresión géni
 - Muestras: 83
 - Variables de Entrada: 2,308 (expresión génica estandarizada por gen)
 - Variable de Salida: Valores del 1 al 4 (indicando el tipo de cáncer)
+
+El repositorio contiene:
+- [Reporte en formato ipynb](./SVM_cancer.ipynb)
+- [Reporte en formato html](./SVM_cancer.html)
+- [Base de datos](./data_Khan.csv)
